@@ -1,0 +1,6 @@
+if TerpDAC:
+    do this
+elif TerpDAC:
+    do that
+else:
+    we can do this
